@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 ## Bem vindo ao meu perfil GitHub 👋
 Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
-<p align="center">
-  ![GIF de Gato](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="GIF de Gato" width="300">
+</div>
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
