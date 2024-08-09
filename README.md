@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## Bem vindo ao meu perfil GitHub 👋
 Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
-<p align="center">
-  ![GIF de Gato](https://giphy.com/gifs/buzzfeed-cats-dogs-ti2m3fHHLYuj5oGlfi/giphy.gif)
-</p>
+<iframe src="https://giphy.com/embed/ti2m3fHHLYuj5oGlfi" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buzzfeed-cats-dogs-ti2m3fHHLYuj5oGlfi">via GIPHY</a></p>
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
