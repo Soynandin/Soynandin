@@ -6,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Soynandin/Soynandin/README.md/cat-tuxedo.gif" alt="Cat Tuxedo GIF" width="400">
+  <img src="https://media.tenor.com/oq5ZcU_tLAAAAAPo/cat-tuxedo-cat.gif" alt="Cat Tuxedo Cat GIF" width="400">
 </div>
+
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
