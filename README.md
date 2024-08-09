@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media1.tenor.com/m/kVWeAjQQq4EAAAAd/cat-tuxedo-cat.gif)" alt="GIF de Gato" width="300">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="GIF de Gato" width="300">
 </div>
 
 ## Ferramentas e Tecnologias
