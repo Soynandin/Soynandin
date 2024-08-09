@@ -8,6 +8,8 @@ Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de In
 <div align="center">
   <img src="https://media.tenor.com/oq5ZcU_tLAAAAAPo/cat-tuxedo-cat.gif" alt="Cat Tuxedo Cat GIF" width="400">
 </div>
+![Cat Tuxedo Cat GIF](https://media.tenor.com/oq5ZcU_tLAAAAAPo/cat-tuxedo-cat.gif)
+
 
 
 ## Ferramentas e Tecnologias
