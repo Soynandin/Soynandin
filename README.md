@@ -11,7 +11,8 @@ Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de In
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="GIF de Gato" width="300">
+  <h2>🐍 Meu GitHub Activity Graph</h2>
+  <img src="https://github.com/Soynandin/Soynandin/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 <div align="center">
