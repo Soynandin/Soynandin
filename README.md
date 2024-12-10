@@ -12,7 +12,7 @@ Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de In
 
 <div align="center">
   <h2>🐍 Meu GitHub Activity Graph</h2>
-  <img src="https://github.com/Soynandin/dist/Soynandin/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://Soynandin.github.io/Soynandin/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 <div align="center">
