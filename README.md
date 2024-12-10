@@ -4,19 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Bem vindo ao meu perfil GitHub 👋
 Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
+
+## Meus contatos
 <div>
   <a href = "mailto:Fernando.Ibirataia0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Soynandin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Soynandin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## 📊 Minhas Estatísticas
 <div align="center">
-  <h2>🐍 Meu GitHub Activity Graph</h2>
-  <img src="https://Soynandin.github.io/Soynandin/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
-
-<div align="center">
-  <h2>📊 Minhas Estatísticas no GitHub</h2>
   <a href="https://github.com/Soynandin">
     <table>
       <tr>
