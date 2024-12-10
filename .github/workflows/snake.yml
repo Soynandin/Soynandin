@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Atualiza diariamente
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -10,18 +9,15 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      # Baixa o repositório
       - name: Clone Repo
         uses: actions/checkout@v2
 
-      # Gera a animação da cobrinha
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: Soynandin
           outputs: dist/snake.svg
 
-      # Envia o arquivo gerado para a branch de saída
       - name: Push Snake Animation to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
