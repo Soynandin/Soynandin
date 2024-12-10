@@ -19,6 +19,7 @@ Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de In
 
 
 <div align="center">
+  <h2>📊 Minhas Estatísticas no GitHub</h2>
   <a href="https://github.com/Soynandin">
     <table>
       <tr>
@@ -32,6 +33,7 @@ Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de In
     </table>
   </a>
 </div>
+
 
   
 
