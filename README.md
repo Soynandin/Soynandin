@@ -3,7 +3,7 @@ Soynandin/Soynandin is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Bem vindo ao meu perfil GitHub 👋
-Olá, me chamo Fernando, tenho 24 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
+Olá, me chamo Fernando, tenho 25 anos, sou estudante do curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 ## Meus contatos
 <div>
